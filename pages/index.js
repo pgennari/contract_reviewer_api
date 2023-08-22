@@ -1,6 +1,5 @@
-function Home(){
-    return <div>Home 2</div>
+function Home() {
+  return <div>Envie seu contrato</div>;
 }
-
 
 export default Home;
